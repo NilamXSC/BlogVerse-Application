@@ -175,11 +175,11 @@ Achieving high engagement
 
 Level 5 users get a special visual effect to highlight experience.
 ```
-💬 Community Feedback
+##💬 Community Feedback
 
 Real feedback powers the Loved By Writers section with stars and comments from actual users.
 
-🌐 Live Link
+##🌐 Live Link
 
 👉 https://blog-verse-app-delta.vercel.app
 
@@ -188,7 +188,7 @@ Real feedback powers the Loved By Writers section with stars and comments from a
 Suggestions, issues, and pull requests are welcome.
 Please follow conventional commits and maintain consistent formatting.
 
-📄 License
+##📄 License
 
 MIT © 2026 BlogVerse
 
@@ -198,37 +198,3 @@ Build it on BlogVerse.
 
 
 ---
-
-## 📌 HOW TO SAVE IMAGES FOR THIS README
-
-1. **Open your app in a browser**
-   - Desktop width for landing
-   - Mobile width for mobile screenshots
-
-2. **Use OS screenshot tools**
-   - Windows: `Win + Shift + S`
-   - Mac: `Cmd + Shift + 4`
-   - Chrome DevTools responsive mode for mobile screenshots
-
-3. **Save in `/screenshots` folder**  
-
-
-screenshots/landing.png
-screenshots/feed.png
-screenshots/profile.png
-screenshots/loved-by-writers.png
-screenshots/notifications.png
-screenshots/admin.png
-
-
-4. **Reference them exactly in README**
-
----
-
-## 📌 BONUS BADGE GENERATOR LINKS
-
-You can generate extra badges here:
-- https://shields.io  
-- https://badgen.net
-
-Example:
