@@ -175,11 +175,11 @@ Achieving high engagement
 
 Level 5 users get a special visual effect to highlight experience.
 ```
-##💬 Community Feedback
+## 💬 Community Feedback
 
 Real feedback powers the Loved By Writers section with stars and comments from actual users.
 
-##🌐 Live Link
+## 🌐 Live Link
 
 👉 https://blog-verse-app-delta.vercel.app
 
@@ -187,8 +187,8 @@ Real feedback powers the Loved By Writers section with stars and comments from a
 
 Suggestions, issues, and pull requests are welcome.
 Please follow conventional commits and maintain consistent formatting.
-
-##📄 License
+---
+## 📄 License
 
 MIT © 2026 BlogVerse
 
