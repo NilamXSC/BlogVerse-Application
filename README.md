@@ -1,4 +1,4 @@
-# Welcome To BlogVerse
+# BlogVerse
 
 [![Live](https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge)](https://blog-verse-app-delta.vercel.app)  
 
