@@ -1,12 +1,12 @@
-# 🚀 BlogVerse
+# Welcome To BlogVerse
 
-✨ Live App: https://blog-verse-app-delta.vercel.app  
+# Live App: https://blog-verse-app-delta.vercel.app  
 
 Welcome to **BlogVerse**, a modern, creator-first blogging platform designed for thoughtful writing, emotional reactions, and meaningful community interaction.
 
 ---
 
-## 🎉 Live Status Badges
+## Live Status Badges
 
 <p align="center">
   <img src="https://img.shields.io/badge/Live-on%20Vercel-00C7B7?style=for-the-badge&logo=vercel" alt="Live on Vercel" />
