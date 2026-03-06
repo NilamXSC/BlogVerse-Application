@@ -1,4 +1,4 @@
-# BlogVerse
+# Blogcadia
 
 [![Live App](https://img.shields.io/badge/Live%20App-BlogVerse-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://blog-verse-app-delta.vercel.app)
 
