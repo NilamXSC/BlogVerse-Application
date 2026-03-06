@@ -39,9 +39,9 @@ Welcome to **BlogVerse**, a modern, creator-first blogging platform designed for
 
 ---
 
-## 💡 What Is BlogVerse?
+## 💡 What Is Blogcadia?
 
-BlogVerse is not just another blogging app — it’s a **minimal, expressive, and engaging platform** built for creators who value conversation over scrolling.
+Blogcadia is not just another blogging app, it’s a **minimal, expressive, and engaging platform** built for creators who value conversation over scrolling.
 
 With:
 - Google Authentication
@@ -194,7 +194,7 @@ MIT © 2026 BlogVerse
 
 Thank you for being part of this journey ❤️
 Build something real.
-Build it on BlogVerse.
+Build it on Blogcadia.
 
 
 ---
