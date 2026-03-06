@@ -190,7 +190,7 @@ Please follow conventional commits and maintain consistent formatting.
 ---
 ## 📄 License
 
-MIT © 2026 BlogVerse
+MIT © 2026 Blogcadia
 
 Thank you for being part of this journey ❤️
 Build something real.
